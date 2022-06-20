@@ -17,7 +17,7 @@
 - Use limit ranges, example file at ~/kubernetes/limitrange.yaml
 - Add scale down delay to metric servers to prevent too many restarts
 - Use a tool like kpt to validate changes
-- Pre-emtible vms
+- Pre-emptible vms
 
 - Check the recommendation hub frequently
 
